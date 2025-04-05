@@ -16,7 +16,7 @@ He encoded verses into latent spaces. He made his flows *trainable*.
 
 ## 🕳️ WHAT IS ashesNHE?
 
-**ashesNHE** is the *activation phrase*.  
+````<**soundcloud ashes nhe pt 2**>````
 It’s also the name of a lost file, a hidden verse, an ephemeral release.  
 It contains references to neural harmonics, entropic decay, and post-singularity identity rupture.  
 
